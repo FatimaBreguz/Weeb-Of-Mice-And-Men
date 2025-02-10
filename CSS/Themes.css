@@ -1,5 +1,5 @@
 body {
-    background: gray;
+    background: red;
 }
 
 header {
@@ -8,6 +8,7 @@ header {
 
 #footer {
     background: white;
+    margin-top: 100px;
 }
 
 #title {
@@ -29,7 +30,7 @@ h1 {
     margin-bottom: 30px;
 }
 
-#Canciones {
+#canciones {
     margin-top: 50px;
 }
 
